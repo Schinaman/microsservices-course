@@ -1,4 +1,4 @@
-package br.com.schinaman.mscourse.infra.repositories.DTO;
+package br.com.schinaman.worker.infra.repositories.DTO;
 
 
 import javax.persistence.*;

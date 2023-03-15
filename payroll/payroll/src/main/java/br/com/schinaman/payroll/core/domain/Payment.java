@@ -3,7 +3,8 @@ package br.com.schinaman.payroll.core.domain;
 import java.io.Serializable;
 import java.util.Objects;
 
-public class Payment{
+public class Payment implements Serializable{
+
 
     private String name;
     private Double dailyIncome;

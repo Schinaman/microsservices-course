@@ -1,4 +1,4 @@
-package br.com.schinaman.mscourse.core.domain;
+package br.com.schinaman.worker.core.domain;
 
 public class Worker {
 

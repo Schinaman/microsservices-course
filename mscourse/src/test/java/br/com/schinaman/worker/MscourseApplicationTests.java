@@ -1,4 +1,4 @@
-package br.com.schinaman.mscourse;
+package br.com.schinaman.worker;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
